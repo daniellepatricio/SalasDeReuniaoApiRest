@@ -1,0 +1,1 @@
+API REST para consultar, inserir, alterar e deletar registros de salas de reuniões (persistência de dados com H2).
